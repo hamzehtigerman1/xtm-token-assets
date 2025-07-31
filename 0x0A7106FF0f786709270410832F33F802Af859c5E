@@ -1,0 +1,28 @@
+{
+  "name": "Torumtigerinu",
+  "symbol": "XTM",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Torumtigerinu (XTM) is a community-driven token launched on Binance Smart Chain, aimed at rewarding holders, supporting marketing, and building a strong ecosystem.",
+  "website": "https://torumtigerinu.xyz",
+  "explorer": "https://bscscan.com/token/0x0A7106FF0f786709270410832F33F802Af859c5E",
+  "status": "active",
+  "id": "0x0A7106FF0f786709270410832F33F802Af859c5E",
+  "tags": [
+    "defi"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Torumtigerinu"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/torumtigerinu"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://torumtigerinu.xyz/wp-content/uploads/2025/07/whitepaper.pdf"
+    }
+  ]
+}
